@@ -7,7 +7,7 @@
 - I regularly stream and create frontend related content as a part of the [Frontend Army](https://frontendarmy.tech/). 🎙️🖥️
 - I love movies and board games. 🎥 🎲
 
-## My years in movies
+## My Years in Movies
 
 ![My 2025 in Movies](https://my-year-in-movies.pages.dev/pabloef/2025.svg)
 
