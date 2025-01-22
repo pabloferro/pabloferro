@@ -1,6 +1,6 @@
 ## Hello there 👋
 
-### I'm Pablo Ferro a Software Engineer specialized in Frontend Development, I'm currently working as a React Native Mobile Engineer.
+### I'm Pablo Ferro a Software Engineer specialized in Front-End and Mobile Development, I'm currently working as a React Native Mobile Engineer.
 
 ## More About Me
 - I love web & mobile development and learning new technologies. 💻 📱
