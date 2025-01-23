@@ -9,8 +9,26 @@
 
 ## My Years in Movies
 
-![My 2025 in Movies](https://my-year-in-movies.pages.dev/pabloef/2025.svg)
+<picture>
+  <source
+    srcset="https://my-year-in-movies.pages.dev/pabloef/2025.svg?theme=dark&test=1"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://my-year-in-movies.pages.dev/pabloef/2025.svg?theme=light&test=1"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img alt="My 2025 in Movies" src="https://my-year-in-movies.pages.dev/pabloef/2025.svg?theme=light&test=1" />
+</picture>
 
-![My 2024 in Movies](https://my-year-in-movies.pages.dev/pabloef/2024.svg)
-
-![My 2023 in Movies](https://my-year-in-movies.pages.dev/pabloef/2023.svg)
+<picture>
+  <source
+    srcset="https://my-year-in-movies.pages.dev/pabloef/2024.svg?theme=dark"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://my-year-in-movies.pages.dev/pabloef/2024.svg?theme=light"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img alt="My 2024 in Movies" src="https://my-year-in-movies.pages.dev/pabloef/2024.svg?theme=light" />
+</picture>
