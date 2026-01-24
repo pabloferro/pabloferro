@@ -11,6 +11,18 @@ I'm Pablo Ferro, a Software Engineer specialized in Front-End and Mobile Develop
 
 <picture>
   <source
+    srcset="https://my-year-in-movies.pages.dev/pabloef/2026.svg?theme=dark&t=2"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://my-year-in-movies.pages.dev/pabloef/2026.svg?theme=light&t=2"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img alt="My 2026 in Movies" src="https://my-year-in-movies.pages.dev/pabloef/2026.svg?theme=light&0t=2" />
+</picture>
+
+<picture>
+  <source
     srcset="https://my-year-in-movies.pages.dev/pabloef/2025.svg?theme=dark&t=2"
     media="(prefers-color-scheme: dark)"
   />
